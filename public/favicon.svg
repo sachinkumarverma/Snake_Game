@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Body -->
+  <path d="M20 52 C10 52, 4 44, 4 36 C4 28, 10 22, 18 22 C26 22, 30 28, 38 28 C46 28, 50 22, 50 16 C50 10, 46 6, 40 6 L52 6 C58 6, 62 12, 62 18 C62 26, 56 30, 48 30 C40 30, 36 24, 28 24 C20 24, 14 30, 14 38 C14 46, 20 52, 28 52 Z" fill="#8BC34A" stroke="#689F38" stroke-width="1.5"/>
+  <!-- Spots -->
+  <circle cx="22" cy="38" r="3" fill="#CDDC39" opacity="0.6"/>
+  <circle cx="34" cy="27" r="2.5" fill="#CDDC39" opacity="0.6"/>
+  <circle cx="50" cy="14" r="2.5" fill="#CDDC39" opacity="0.6"/>
+  <!-- Head -->
+  <ellipse cx="54" cy="8" rx="9" ry="7" fill="#8BC34A" stroke="#689F38" stroke-width="1.5"/>
+  <!-- Eye -->
+  <circle cx="57" cy="6" r="2.5" fill="white"/>
+  <circle cx="58" cy="5.5" r="1.2" fill="#1a1a1a"/>
+  <!-- Tongue -->
+  <path d="M62 8 L68 6 M62 8 L68 11" stroke="#E53935" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+</svg>
